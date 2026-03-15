@@ -1,0 +1,144 @@
+2026-03-14 03:37:05,500 - INFO - starting backend service..
+2026-03-14 03:37:07,502 - INFO - Starting Frontend service
+2026-03-14 03:38:10,763 - INFO - Sending request to backend
+2026-03-14 03:38:12,801 - ERROR - Error occured while sending request to backend
+2026-03-14 03:40:18,840 - INFO - starting backend service..
+2026-03-14 03:40:20,872 - INFO - Starting Frontend service
+2026-03-14 03:51:55,966 - INFO - Sending request to backend...
+2026-03-14 03:51:55,998 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: False
+2026-03-14 03:51:57,600 - ERROR - Unexpected error: create_react_agent() got unexpected keyword arguments: {'state_modifier': 'Medical Agents'}
+2026-03-14 03:51:57,603 - ERROR - Backend error: 500
+2026-03-14 03:59:44,531 - INFO - Sending request to backend...
+2026-03-14 03:59:44,553 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: False
+2026-03-14 03:59:46,714 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 03:59:46,739 - INFO - Response generated successfully.
+2026-03-14 03:59:46,741 - INFO - Successfully received response from backend.
+2026-03-14 04:00:10,081 - INFO - Sending request to backend...
+2026-03-14 04:00:10,086 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: False
+2026-03-14 04:00:12,949 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:00:12,952 - INFO - Response generated successfully.
+2026-03-14 04:00:12,953 - INFO - Successfully received response from backend.
+2026-03-14 04:00:23,057 - INFO - Sending request to backend...
+2026-03-14 04:00:23,063 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: True
+2026-03-14 04:00:24,803 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:00:29,419 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:00:29,421 - INFO - Response generated successfully.
+2026-03-14 04:00:29,424 - INFO - Successfully received response from backend.
+2026-03-14 04:01:37,390 - INFO - Sending request to backend...
+2026-03-14 04:01:37,395 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: True
+2026-03-14 04:01:39,021 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:01:43,486 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:01:43,490 - INFO - Response generated successfully.
+2026-03-14 04:01:43,567 - INFO - Successfully received response from backend.
+2026-03-14 04:02:17,038 - INFO - Sending request to backend...
+2026-03-14 04:02:17,043 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: False
+2026-03-14 04:02:19,537 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:02:19,539 - INFO - Response generated successfully.
+2026-03-14 04:02:19,542 - INFO - Successfully received response from backend.
+2026-03-14 04:02:31,977 - INFO - Sending request to backend...
+2026-03-14 04:02:31,981 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: True
+2026-03-14 04:02:34,024 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:02:37,304 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:02:37,306 - INFO - Response generated successfully.
+2026-03-14 04:02:37,309 - INFO - Successfully received response from backend.
+2026-03-14 04:03:33,292 - INFO - Sending request to backend...
+2026-03-14 04:03:33,297 - INFO - Request received | Model: llama-3.3-70b-specdec | Web Search: False
+2026-03-14 04:03:34,710 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-03-14 04:03:34,711 - ERROR - Unexpected error: Error code: 400 - {'error': {'message': 'The model `llama-3.3-70b-specdec` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-03-14 04:03:34,713 - ERROR - Backend error: 500
+2026-03-14 04:03:42,724 - INFO - Sending request to backend...
+2026-03-14 04:03:42,729 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: False
+2026-03-14 04:03:45,064 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:03:45,067 - INFO - Response generated successfully.
+2026-03-14 04:03:45,069 - INFO - Successfully received response from backend.
+2026-03-14 04:03:54,726 - INFO - Sending request to backend...
+2026-03-14 04:03:54,732 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: True
+2026-03-14 04:03:56,724 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:03:56,725 - INFO - Response generated successfully.
+2026-03-14 04:03:56,727 - INFO - Successfully received response from backend.
+2026-03-14 04:04:35,794 - INFO - Sending request to backend...
+2026-03-14 04:04:35,799 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: True
+2026-03-14 04:04:37,300 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:04:37,303 - INFO - Response generated successfully.
+2026-03-14 04:04:37,305 - INFO - Successfully received response from backend.
+2026-03-14 04:04:47,668 - INFO - Sending request to backend...
+2026-03-14 04:04:47,672 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: False
+2026-03-14 04:04:49,430 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:04:49,432 - INFO - Response generated successfully.
+2026-03-14 04:04:49,435 - INFO - Successfully received response from backend.
+2026-03-14 04:05:21,881 - INFO - Sending request to backend...
+2026-03-14 04:05:21,886 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: False
+2026-03-14 04:05:23,557 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:05:23,559 - INFO - Response generated successfully.
+2026-03-14 04:05:23,560 - INFO - Successfully received response from backend.
+2026-03-14 04:09:41,732 - INFO - Sending request to backend...
+2026-03-14 04:09:41,744 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: False
+2026-03-14 04:09:43,751 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:09:43,752 - INFO - Response generated successfully.
+2026-03-14 04:09:43,754 - INFO - Successfully received response from backend.
+2026-03-14 04:10:11,964 - INFO - Sending request to backend...
+2026-03-14 04:10:11,968 - INFO - Request received | Model: llama-3.3-70b-versatile | Web Search: False
+2026-03-14 04:10:13,789 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 04:10:13,789 - INFO - Response generated successfully.
+2026-03-14 04:10:13,789 - INFO - Successfully received response from backend.
+2026-03-14 06:14:54,576 - INFO - Sending request to backend...
+2026-03-14 06:14:56,615 - ERROR - Error occurred while sending request to backend: HTTPConnectionPool(host='127.0.0.1', port=9999): Max retries exceeded with url: /chat (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=9999): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-03-14 06:21:37,291 - INFO - Sending request to backend...
+2026-03-14 06:22:36,175 - INFO - Sending request to backend...
+2026-03-14 06:23:01,800 - INFO - Sending request to backend...
+2026-03-14 06:23:02,011 - INFO - Sending request to backend...
+2026-03-14 06:23:02,217 - INFO - Sending request to backend...
+2026-03-14 06:23:02,420 - INFO - Sending request to backend...
+2026-03-14 06:24:16,202 - INFO - Sending request to backend...
+2026-03-14 06:26:07,113 - INFO - Sending request to backend...
+2026-03-14 06:27:48,734 - INFO - Sending request to backend...
+2026-03-14 06:32:00,487 - INFO - Sending request to backend...
+2026-03-14 06:32:00,505 - ERROR - Backend error: 422
+2026-03-14 06:32:46,809 - INFO - Sending request to backend...
+2026-03-14 06:32:46,828 - ERROR - Backend error: 422
+2026-03-14 06:41:30,631 - INFO - Sending request to backend...
+2026-03-14 06:41:30,655 - INFO - Received request for model: llama-3.3-70b-versatile
+2026-03-14 06:41:32,228 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-03-14 06:41:32,228 - ERROR - Error during response generation
+2026-03-14 06:41:32,228 - ERROR - Backend error: 500
+2026-03-14 06:42:53,669 - INFO - starting backend service..
+2026-03-14 06:42:55,670 - INFO - Starting Frontend service
+2026-03-14 06:43:49,379 - INFO - Sending request to backend...
+2026-03-14 06:43:49,406 - INFO - Received request for model: llama-3.3-70b-versatile
+2026-03-14 06:43:50,950 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-03-14 06:43:50,951 - ERROR - Error during response generation
+2026-03-14 06:43:50,953 - ERROR - Backend error: 500
+2026-03-14 06:47:23,611 - INFO - Sending request to backend...
+2026-03-14 06:47:23,634 - INFO - Received request for model: llama-3.3-70b-versatile
+2026-03-14 06:47:23,634 - ERROR - Error during response generation: get_ai_agent_response() got an unexpected keyword argument 'model_name'
+2026-03-14 06:47:23,638 - ERROR - Backend error: 500
+2026-03-14 06:50:25,116 - INFO - Sending request to backend...
+2026-03-14 06:50:25,138 - INFO - Received request for model: llama-3.3-70b-versatile
+2026-03-14 06:50:26,750 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-03-14 06:50:26,750 - ERROR - Error: Error code: 400 - {'error': {'message': "'messages.1' : for 'role:user' the following must be satisfied[('messages.1.content' : one of the following must be satisfied[('messages.1.content' : value must be a string) OR ('messages.1.content.0' : one of the following must be satisfied[('messages.1.content.0' : value must be an object) OR ('messages.1.content.0' : value must be an object) OR ('messages.1.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2026-03-14 06:50:26,750 - ERROR - Backend error: 500
+2026-03-14 06:57:59,896 - INFO - Sending request to backend...
+2026-03-14 06:58:01,841 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 06:58:01,861 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-14 06:58:01,863 - INFO - Successfully received response from backend.
+2026-03-14 06:58:42,191 - INFO - Sending request to backend...
+2026-03-14 06:58:44,858 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 06:58:44,861 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-14 06:58:44,863 - INFO - Successfully received response from backend.
+2026-03-14 06:58:52,635 - INFO - Sending request to backend...
+2026-03-14 06:58:54,080 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 06:58:58,053 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 06:58:58,054 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-14 06:58:58,056 - INFO - Successfully received response from backend.
+2026-03-14 16:19:17,499 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 16:19:21,731 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 16:19:21,731 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-14 16:46:00,305 - INFO - Sending request to backend...
+2026-03-14 16:46:05,437 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 16:46:05,505 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-14 16:46:05,509 - INFO - Response received.
+2026-03-14 16:46:26,099 - INFO - Sending request to backend...
+2026-03-14 16:46:29,023 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 16:46:38,756 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-14 16:46:38,759 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-14 16:46:38,765 - INFO - Response received.

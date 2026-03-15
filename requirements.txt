@@ -1,0 +1,13 @@
+opencv-python
+numpy
+python-dotenv
+requests
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-community
+python-multipart
+langgraph
+tavily-python
+streamlit

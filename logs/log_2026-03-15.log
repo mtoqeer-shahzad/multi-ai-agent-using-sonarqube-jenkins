@@ -1,0 +1,31 @@
+2026-03-15 17:50:57,981 - INFO - starting backend service..
+2026-03-15 17:50:59,982 - INFO - Starting Frontend service
+2026-03-15 17:51:34,537 - INFO - Sending request to backend...
+2026-03-15 17:51:37,787 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-15 17:51:37,817 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-15 17:51:37,818 - INFO - Response received.
+2026-03-15 17:51:58,281 - INFO - Sending request to backend...
+2026-03-15 17:51:59,912 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-15 17:52:03,328 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-15 17:52:03,361 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-15 17:52:03,363 - INFO - Response received.
+2026-03-15 17:53:32,262 - INFO - starting backend service..
+2026-03-15 17:53:34,263 - INFO - Starting Frontend service
+2026-03-15 17:53:42,737 - INFO - Sending request to backend...
+2026-03-15 17:53:44,237 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-15 17:53:44,238 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-15 17:53:44,240 - INFO - Response received.
+2026-03-15 17:54:06,715 - INFO - Sending request to backend...
+2026-03-15 17:54:08,182 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-15 17:54:08,182 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-15 17:54:08,182 - INFO - Response received.
+2026-03-15 17:54:47,381 - INFO - Sending request to backend...
+2026-03-15 17:54:50,459 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-15 17:54:50,459 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-15 17:54:50,459 - INFO - Response received.
+2026-03-15 17:56:49,768 - INFO - Sending request to backend...
+2026-03-15 17:56:51,310 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-15 17:56:57,957 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-15 17:57:01,828 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-15 17:57:01,828 - INFO - Chat response sent to: llama-3.3-70b-versatile
+2026-03-15 17:57:01,828 - INFO - Response received.
